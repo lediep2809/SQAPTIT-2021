@@ -24,7 +24,7 @@ public class TestThongKe {
 	@Test
 	public void testTimDanhSachSinhVienTheoMonHoc() {
 		List<SinhVien_Diem> listSinhVienDiem = thongKeService.findbytbdiem("INT1408", 2);
-		assertEquals(3, listSinhVienDiem.size());
+		assertEquals(2, listSinhVienDiem.size());
 	}
 
 	@Test
