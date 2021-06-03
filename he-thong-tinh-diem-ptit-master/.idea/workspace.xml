@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f21a7314-2c70-4e39-8531-4208507d6443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/login-page.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/thongke/danhsachsinhvien.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/MonHocDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/SinhVienDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/thongke/danhsachmonhoc.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/controller/LoginController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/CauHinhDiemDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MySQL script/tinhdiemptit2.sql" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1rFwD3OM5NHtDbzRCfmonq4QCSm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ChuPe\IdeaProjects\he-thong-tinh-diem-ptit-master\src\main\resources\static\css" />
+      <recent name="C:\Users\ChuPe\IdeaProjects\he-thong-tinh-diem-ptit-master\src\main\resources\static" />
+      <recent name="C:\Users\ChuPe\IdeaProjects\he-thong-tinh-diem-ptit-master\src\main\webapp\WEB-INF\view\thongke" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TinhDiemPtitApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCauHinh.testTimCauHinhDiemTheoMonHoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tinh-diem-ptit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlsv.ptit.tinhdiemptit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qlsv.ptit.tinhdiemptit" />
+      <option name="MAIN_CLASS_NAME" value="com.qlsv.ptit.tinhdiemptit.TestCauHinh" />
+      <option name="METHOD_NAME" value="testTimCauHinhDiemTheoMonHoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTinhDiem.testTinhDiemSinhVien2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tinh-diem-ptit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlsv.ptit.tinhdiemptit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qlsv.ptit.tinhdiemptit" />
+      <option name="MAIN_CLASS_NAME" value="com.qlsv.ptit.tinhdiemptit.TestTinhDiem" />
+      <option name="METHOD_NAME" value="testTinhDiemSinhVien2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTinhDiem.testTinhDiemSinhVien3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tinh-diem-ptit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlsv.ptit.tinhdiemptit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qlsv.ptit.tinhdiemptit" />
+      <option name="MAIN_CLASS_NAME" value="com.qlsv.ptit.tinhdiemptit.TestTinhDiem" />
+      <option name="METHOD_NAME" value="testTinhDiemSinhVien3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTinhDiem.testTinhDiemSinhVien4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tinh-diem-ptit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlsv.ptit.tinhdiemptit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qlsv.ptit.tinhdiemptit" />
+      <option name="MAIN_CLASS_NAME" value="com.qlsv.ptit.tinhdiemptit.TestTinhDiem" />
+      <option name="METHOD_NAME" value="testTinhDiemSinhVien4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.qlsv.ptit.tinhdiemptit in tinh-diem-ptit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tinh-diem-ptit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qlsv.ptit.tinhdiemptit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qlsv.ptit.tinhdiemptit" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhDiemPtitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tinh-diem-ptit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qlsv.ptit.tinhdiemptit.TinhDiemPtitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien2" />
+        <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien4" />
+        <item itemvalue="JUnit.com.qlsv.ptit.tinhdiemptit in tinh-diem-ptit" />
+        <item itemvalue="JUnit.TestCauHinh.testTimCauHinhDiemTheoMonHoc" />
+        <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21a7314-2c70-4e39-8531-4208507d6443" name="Default Changelist" comment="" />
+      <created>1618585026423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618585026423</updated>
+      <workItem from="1618585030707" duration="873000" />
+      <workItem from="1618647280129" duration="5216000" />
+      <workItem from="1618748976820" duration="21000" />
+      <workItem from="1618749046464" duration="4962000" />
+      <workItem from="1618798414203" duration="1782000" />
+      <workItem from="1618822955854" duration="2751000" />
+      <workItem from="1618909628149" duration="25000" />
+      <workItem from="1618913051038" duration="2260000" />
+      <workItem from="1618975972293" duration="768000" />
+      <workItem from="1618984587408" duration="740000" />
+      <workItem from="1618985421379" duration="141000" />
+      <workItem from="1618985604777" duration="113000" />
+      <workItem from="1618985756638" duration="327000" />
+      <workItem from="1618986131079" duration="392000" />
+      <workItem from="1618986575652" duration="1903000" />
+      <workItem from="1618988536690" duration="67000" />
+      <workItem from="1618988641556" duration="117000" />
+      <workItem from="1618988796032" duration="122000" />
+      <workItem from="1618988955699" duration="3789000" />
+      <workItem from="1619082522109" duration="24000" />
+      <workItem from="1619104926664" duration="3940000" />
+      <workItem from="1620275311275" duration="281000" />
+      <workItem from="1620702623814" duration="76000" />
+      <workItem from="1621167195930" duration="1874000" />
+      <workItem from="1621216314497" duration="96000" />
+      <workItem from="1621480813789" duration="394000" />
+      <workItem from="1621481473913" duration="1708000" />
+      <workItem from="1621501371126" duration="598000" />
+      <workItem from="1621755453547" duration="437000" />
+      <workItem from="1621829884785" duration="597000" />
+      <workItem from="1622025050452" duration="368000" />
+      <workItem from="1622089175551" duration="2969000" />
+      <workItem from="1622124076586" duration="1169000" />
+      <workItem from="1622126554053" duration="12000" />
+      <workItem from="1622181069217" duration="1720000" />
+      <workItem from="1622210496089" duration="476000" />
+      <workItem from="1622211062816" duration="2708000" />
+      <workItem from="1622353894437" duration="1171000" />
+      <workItem from="1622368719501" duration="330000" />
+      <workItem from="1622449320555" duration="16000" />
+      <workItem from="1622478299759" duration="804000" />
+      <workItem from="1622521093135" duration="476000" />
+      <workItem from="1622524760839" duration="258000" />
+      <workItem from="1622552315573" duration="625000" />
+      <workItem from="1622652118905" duration="10107000" />
+      <workItem from="1622690647000" duration="9222000" />
+      <workItem from="1622709603161" duration="262000" />
+      <workItem from="1622720849127" duration="5058000" />
+      <workItem from="1622727941630" duration="20000" />
+      <workItem from="1622728126665" duration="7740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
