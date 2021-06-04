@@ -79,10 +79,7 @@ public class TestTinhDiem {
 		lstSinhVienDiemBefore.get(0).setDiemGK(4f);
 		lstSinhVienDiemBefore.get(0).setDiemBTL(7.5f);
 		lstSinhVienDiemBefore.get(0).setDiemThi(9f);
-
-		// Môn không có cấu hình điểm
 		tinhDiemService2.setDiemSinhVien(lstSinhVienDiemBefore, 4, "INT1408");
-
 		List<SinhVien_Diem> lstSinhVienDiemAfter = sinhVienService.findByNhomMonHoc("INT1408", 4);
 		Float diemTB = lstSinhVienDiemAfter.get(0).getDiemTB();
 		assertNull(diemTB);
@@ -92,6 +89,7 @@ public class TestTinhDiem {
 	public void testTinhDiemSinhVien4() {
 		List<SinhVien_Diem> lstSinhVienDiemBefore = sinhVienService.findByNhomMonHoc("INT1416", 1);
 		// Set diem thi cho sinh vien co MSV1
+		// test
 		lstSinhVienDiemBefore.get(0).setDiemThi((float) 9);
 		lstSinhVienDiemBefore.get(0).setDiemCC(0);
 		tinhDiemService.formatCauHinh(cauHinhDiemService.findById("INT1416"));

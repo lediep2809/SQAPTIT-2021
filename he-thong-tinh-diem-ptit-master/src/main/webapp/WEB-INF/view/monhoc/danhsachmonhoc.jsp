@@ -78,6 +78,7 @@
 					</c:if>
 				</div>
 				<a class="btn btn-info px-5" href="/monhoc/dsmh">Reset</a>
+				<a class="btn btn-danger px-5" href="${pageContext.request.contextPath}/">Back</a>
 			</form>
 
 			<c:if test="${not empty selectedId }">

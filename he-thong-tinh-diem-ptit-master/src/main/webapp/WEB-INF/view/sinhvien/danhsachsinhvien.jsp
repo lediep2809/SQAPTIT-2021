@@ -93,6 +93,9 @@
 					<input type="submit" class="btn btn-info px-5 mt-5"
 						${not empty lst.listSinhVienDiem ? '' : 'disabled="disabled"'}
 						value="Lưu">
+					<p>
+						<a class="btn btn-danger px-5 mt-5" href="${pageContext.request.contextPath}/">Back</a>
+					</p>
 				</div>
 			</form:form>
 		</div>

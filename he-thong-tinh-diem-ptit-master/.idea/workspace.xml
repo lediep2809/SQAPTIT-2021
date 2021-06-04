@@ -20,18 +20,18 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/login-page.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MySQL script/tinhdiemptit2.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/MonHocDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/thongke/danhsachsinhvien.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAO.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/MonHocDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE-sources.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/SinhVienDAO.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/thongke/danhsachmonhoc.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/controller/LoginController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/login-page.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/thongke/danhsachmonhoc.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/ThongKeDAO.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/CauHinhDiemDAOImpl.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MySQL script/tinhdiemptit2.sql" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/qlsv/ptit/tinhdiemptit/dao/SinhVienDAO.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1rFwD3OM5NHtDbzRCfmonq4QCSm" />
   <component name="ProjectViewState">
@@ -53,9 +53,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -65,18 +65,7 @@
       <recent name="C:\Users\ChuPe\IdeaProjects\he-thong-tinh-diem-ptit-master\src\main\webapp\WEB-INF\view\thongke" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.TinhDiemPtitApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestTinhDiem.testTinhDiemSinhVien3">
     <configuration name="TestCauHinh.testTimCauHinhDiemTheoMonHoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tinh-diem-ptit" />
       <extension name="coverage">
@@ -164,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien3" />
         <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien2" />
         <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien4" />
         <item itemvalue="JUnit.com.qlsv.ptit.tinhdiemptit in tinh-diem-ptit" />
         <item itemvalue="JUnit.TestCauHinh.testTimCauHinhDiemTheoMonHoc" />
-        <item itemvalue="JUnit.TestTinhDiem.testTinhDiemSinhVien3" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +219,9 @@
       <workItem from="1622720849127" duration="5058000" />
       <workItem from="1622727941630" duration="20000" />
       <workItem from="1622728126665" duration="7740000" />
+      <workItem from="1622737697304" duration="1037000" />
+      <workItem from="1622742447328" duration="771000" />
+      <workItem from="1622777018474" duration="56000" />
     </task>
     <servers />
   </component>
